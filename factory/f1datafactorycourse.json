@@ -1,0 +1,9 @@
+{
+	"name": "f1datafactorycourse",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5fd00e57-e66d-4ef6-b330-aa7f9e7166ee",
+		"tenantId": "b1b457b4-e14a-4748-9383-3d97bb33eb0c"
+	}
+}
